@@ -23,16 +23,19 @@
 <br>
 
 ## 💻 Project
-- [🛒 aws-shop e-commerce](https://github.com/standard-Chan/aws-shop)
-- [💾 분산 파일 저장소](https://github.com/standard-Chan/File-Storage)
-- [📝 AI 기반 CS 학습 서비스](https://github.com/standard-Chan/BBokBBok)
+- [e-commerce](https://github.com/standard-Chan/aws-shop)
+- [file-storage](https://github.com/standard-Chan/File-Storage)
+- [CS 학습 서비스](https://github.com/standard-Chan/BBokBBok)
 
 <br>
 
 ## 🌱 Open Source
 
-- [Node.js — WritableStream abort 로직 개선](https://github.com/nodejs/node/pull/64825#issuecomment-5148960146)
-- [Node.js - WPT update 반영](https://github.com/nodejs/node/pull/65638)
+- Node.js [#64825](https://github.com/nodejs/node/pull/64825#issuecomment-5148960146) - stream: fix recursive WritableStream abort 
+- Node.js [#65638](https://github.com/nodejs/node/pull/65638) - test: update WPT for streams to 4832db4761
+- Node.js [#65676](https://github.com/nodejs/node/pull/64825) - stream: reject primitive values in ReadableStream.from
+
+
 
 
 <!--
