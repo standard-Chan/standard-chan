@@ -31,9 +31,9 @@
 
 ## 🌱 Open Source
 
-- Node.js [#64825](https://github.com/nodejs/node/pull/64825#issuecomment-5148960146) - stream: fix recursive WritableStream abort 
+- Node.js [#64825](https://github.com/nodejs/node/pull/64825) - stream: fix recursive WritableStream abort 
 - Node.js [#65638](https://github.com/nodejs/node/pull/65638) - test: update WPT for streams to 4832db4761
-- Node.js [#65676](https://github.com/nodejs/node/pull/64825) - stream: reject primitive values in ReadableStream.from
+- Node.js [#65676](https://github.com/nodejs/node/pull/65676) - stream: reject primitive values in ReadableStream.from
 
 
 
