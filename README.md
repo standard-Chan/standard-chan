@@ -32,6 +32,7 @@
 ## 🌱 Open Source
 
 - [Node.js — WritableStream abort 로직 개선](https://github.com/nodejs/node/pull/64825#issuecomment-5148960146)
+- [Node.js - WPT update 반영](https://github.com/nodejs/node/pull/65638)
 
 
 <!--
